@@ -7,4 +7,4 @@ de acordo com a quantidade de participantes e a duração da festa de churrasco.
 
 To access: https://netryxdev.github.io/churrascometro/
 
-![alt text](https://imgur.com/a/9RE2IUo)
+![alt text](https://i.imgur.com/SSFKuq6.png)
